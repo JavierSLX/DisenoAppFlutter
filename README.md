@@ -15,7 +15,7 @@ Sin uso de librerías externas
 
 <table border="0">
     <tr>
-        <td><img src="./resources/basico.png" width="211" height="427"></td>
+        <td><img src="./resources/basico.PNG" width="211" height="427"></td>
         <td><img src="./resources/scroll.gif" width="211" height="427"></td>
         <td><img src="./resources/botones.gif" width="211" height="427"></td>
     </tr>
